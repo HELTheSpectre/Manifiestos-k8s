@@ -51,7 +51,7 @@ Antes de comenzar, asegurate de tener instalado lo siguiente en tu sistema:
 
     Para clonar los repositorios podes utilizar los siguientes comandos:
 
-    Repositorio manifiestos: "git clonehttps://github.com/HELTheSpectre/Manifiestos-k8s manifiestos-k8s" 
+    Repositorio manifiestos: "git clone https://github.com/HELTheSpectre/Manifiestos-k8s manifiestos-k8s" 
 
     Repositorio webEstatica: "git clone https://github.com/HELTheSpectre/WebEstatica pagina-web"
 
